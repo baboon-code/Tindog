@@ -1,2 +1,1 @@
-# Tindog
-Tindog website developed by Baboon-code
+TinDog Starting Files
